@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicToeTac</string>
+    <string name="heading">Welcome to Ticky Toky Tacky</string>
+    <string name="grid">Our Main grid</string>
+    <string name="resetButton">Reset</string>
+    <string name="status">Square\'s Turn - Tap to play</string>
+</resources>
